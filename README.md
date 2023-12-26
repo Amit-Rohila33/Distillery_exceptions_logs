@@ -2,7 +2,6 @@
 
 ### 1. Integration of Better-Exceptions
 
-The `better_exceptions` library was integrated to enhance error tracebacks for better debugging. Here's what was done:
 
 - Imported `better_exceptions` and set `MAX_LENGTH` to `None` to enable better exceptions globally.
 
